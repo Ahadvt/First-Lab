@@ -35,7 +35,7 @@ namespace ConsoleApp1
         {
             Random random = new Random();
             int Texmin = 0;
-            int Num = Num = random.Next(1, 100);
+            int Num  = random.Next(1, 100);
 
             int Count = 0;
             do
